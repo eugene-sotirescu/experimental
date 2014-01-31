@@ -12,7 +12,7 @@ public class App
 {
     public static void main( String[] args )
     {
-    	String s = "Hello World7!";
+    	String s = "Hello World!";
     	if (StringUtils.isNotEmpty(s)) {
     		System.out.println( s );
     	}
